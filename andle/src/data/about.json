@@ -1,0 +1,54 @@
+[
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2021",
+        "yearTwo": "2020",
+        "yearThree": "2019",
+        "yearFour": "2018",
+        "yearFive": "2013",
+        "awardItem": [
+            {
+                "id": 1,
+                "className": "text-primary",
+                "cate": "Caddy Time",
+                "title": "Partner and Chief Innovation Officer <span>Caddy Time</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-primary",
+                "cate": "CSI",
+                "title": "Employee of the Month <span>Custom Stone Interiors, LLC</span>"
+            },
+            {
+                "id": 3,
+                "className": "text-danger",
+                "cate": "TETRA Technologies",
+                "title": "Regional and District Outstanding Safety and Service Employee of the Month<span> TETRA Technologies</span>"
+            },
+            {
+                "id": 4,
+                "className": "text-success",
+                "cate": "TETRA Technologies",
+                "title": "Regional and District Outstanding Safety and Service Employee of the Month<span> TETRA Technologies</span>"
+            },
+            {
+                "id": 5,
+                "className": "text-white",
+                "cate": "Pennsylvania Army National Guard",
+                "title": "Army Commendation Medal<span> U.S. Army</span>"
+            },
+            {
+                "id": 6,
+                "className": "text-white",
+                "cate": "United States Army",
+                "title": "Soldier of the Cycle<span> U.S. Army</span>"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hello!</span> My name is Ryan, <br> I'm a Full-Stack Web/Mobile <br> Developer based in Pittsburgh, Pennsylvania.",
+        "excerpt": "See bits and pieces of his design and development work on:"
+    }
+]
