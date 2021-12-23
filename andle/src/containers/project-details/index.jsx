@@ -188,7 +188,7 @@ const ProjectDetailsContainer = ({ data }) => {
                         data-aos="fade-up"
                         data-aos-duration="600"
                     >
-                        Let’s start work together
+                        Let’s work together
                     </h3>
 
                     <div

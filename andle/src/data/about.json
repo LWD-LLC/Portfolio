@@ -48,7 +48,7 @@
     },
     {
         "id": "AboutContent",
-        "title": "<span>Hello!</span> My name is Ryan, <br> I'm a Full-Stack Web/Mobile <br> Developer based in Pittsburgh, Pennsylvania.",
+        "title": "<span>Hello!</span> My name is Ryan, <br> I'm a Full-Stack <br> Web/Mobile Developer <br> based in </br> Pittsburgh, Pa.",
         "excerpt": "See bits and pieces of his design and development work on:"
     }
 ]

@@ -2,14 +2,17 @@ import React from "react";
 import { useForm } from "react-hook-form";
 
 const ProjectForm = () => {
-    const { register, handleSubmit, errors } = useForm({
+    const { register, errors } = useForm({
         mode: "onBlur",
     });
-    const onSubmit = (data) => console.log(data);
     return (
-        <form onSubmit={handleSubmit(onSubmit)}>
-            <div className="row gx-10">
-                <div className="col-md-4">
+        <form
+            id="contact-form"
+            action="https://getform.io/f/c2cfcf44-07e5-4951-92c5-2000f2a14a16"
+            method="POST"
+        >
+            <div className="row">
+                <div className="col-md-6">
                     <div className="single-form">
                         <input
                             type="text"
@@ -20,12 +23,12 @@ const ProjectForm = () => {
                         {errors.name && <p>{errors.name.message}</p>}
                     </div>
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-6">
                     <div className="single-form">
                         <input
                             type="email"
                             name="email"
-                            placeholder="youemail@domain.com"
+                            placeholder="yourmail@domain.com"
                             ref={register({
                                 required: "Email is required",
                                 pattern: {
@@ -37,13 +40,15 @@ const ProjectForm = () => {
                         {errors.email && <p>{errors.email.message}</p>}
                     </div>
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-12">
                     <div className="single-form">
                         <input
                             type="text"
                             name="subject"
-                            placeholder="Subject"
-                            ref={register({ required: "Subject is required" })}
+                            placeholder="Subject (optional)"
+                            ref={register({
+                                required: "Subject is required",
+                            })}
                         />
                         {errors.subject && <p>{errors.subject.message}</p>}
                     </div>
@@ -53,9 +58,17 @@ const ProjectForm = () => {
                         <textarea
                             name="message"
                             placeholder="Here goes your message"
-                            ref={register({ required: "Message is required" })}
+                            ref={register({
+                                required: "Message is required",
+                            })}
                         ></textarea>
                         {errors.message && <p>{errors.message.message}</p>}
+                    </div>
+                </div>
+                <p className="form-message"></p>
+                <div className="col-md-12">
+                    <div className="form-btn">
+                        <button type="submit">Send Message</button>
                     </div>
                 </div>
             </div>

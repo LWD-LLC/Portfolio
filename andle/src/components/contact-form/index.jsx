@@ -7,7 +7,7 @@ const ContactForm = () => {
     return (
         <form
             id="contact-form"
-            action="https://getform.io/f/a17a2715-d7ee-4ac4-8fcb-12f1eed43b2c"
+            action="https://getform.io/f/c2cfcf44-07e5-4951-92c5-2000f2a14a16"
             method="POST"
         >
             <div className="row">

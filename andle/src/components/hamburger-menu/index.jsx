@@ -71,13 +71,13 @@ const HamburgerMenu = ({ show, onClose }) => {
                                         About Us
                                     </NavLink>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <NavLink
                                         to={process.env.PUBLIC_URL + "/pricing"}
                                     >
                                         Pricing
                                     </NavLink>
-                                </li>
+                                </li> */}
                             </ul>
                         </li>
                         <li>
@@ -111,7 +111,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                                 </li>
                             </ul>
                         </li>
-                        <li>
+                        {/* <li>
                             <NavLink to={process.env.PUBLIC_URL + "/blog"}>
                                 Blog
                             </NavLink>
@@ -141,7 +141,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                                     </NavLink>
                                 </li>
                             </ul>
-                        </li>
+                        </li> */}
                         <li>
                             <NavLink to={process.env.PUBLIC_URL + "/contact"}>
                                 Contact

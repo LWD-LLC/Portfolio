@@ -60,7 +60,7 @@ const App = () => {
                         }`}
                         component={ProjectDetails}
                     />
-                    <Route
+                    {/* <Route
                         path={`${process.env.PUBLIC_URL + "/blog"}`}
                         component={BlogPage}
                     />
@@ -83,7 +83,7 @@ const App = () => {
                     <Route
                         path={`${process.env.PUBLIC_URL + "/tag/:slug"}`}
                         component={BlogTag}
-                    />
+                    /> */}
                     <Route
                         path={`${process.env.PUBLIC_URL + "/contact"}`}
                         component={ContactPage}
