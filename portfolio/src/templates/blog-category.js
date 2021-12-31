@@ -25,7 +25,7 @@ const BlogCategory = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Blog Category" />
+                <SEO title="Ryan O'Donnell - Blog Category" />
                 <div className="main-wrapper">
                     <Header />
                     <PageTitleContainer title={title} />

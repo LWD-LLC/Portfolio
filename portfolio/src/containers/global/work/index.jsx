@@ -96,7 +96,7 @@ const WorkContainer = () => {
                                                 toggle("2");
                                             }}
                                         >
-                                            architecture
+                                            Projects
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
@@ -108,7 +108,7 @@ const WorkContainer = () => {
                                                 toggle("3");
                                             }}
                                         >
-                                            interior
+                                            Tutorials
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
@@ -120,7 +120,7 @@ const WorkContainer = () => {
                                                 toggle("4");
                                             }}
                                         >
-                                            landscape
+                                            Sites
                                         </NavLink>
                                     </NavItem>
                                 </Nav>

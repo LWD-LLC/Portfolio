@@ -2,47 +2,93 @@
     {
         "id": 1,
         "media": {
-            "thumb": "./images/project/project-1.jpg",
-            "image": "./images/project-details/project-details.jpg"
+            "thumb": "./images/project/Geo-Fencing.png",
+            "image": "./images/project-details/Geo-Fencing.png"
         },
-        "title": "Figma Free UI Kit",
-        "categories": ["Web/App", "Branding"],
-        "challenge": "Poland ATA Finance <br /> Banking",
-        "date": "March 25, 2024",
-        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
-        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "title": "Geo-Fensing App",
+        "categories": ["Web/App"],
+        "challenge": "Limitless SAAS App Idea",
+        "date": "December 01, 2021",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "Strategy, UI/UX Design, Development",
         "subTitle": "Ideas & Concept",
-        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
-        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
-        "name": "Adam Levine",
-        "designation": "Director of Poland ATA Finance Banking",
+        "body": ["<p>This app was built by followig a tutorial <a href='https://pusher.com/tutorials/geofencing-nextjs/'>by Christian Nwamba</a> initially. The idea came from thinking about my experiences on the oil field using JSAs daily to ensure awarness of potential hazards. I noticed that a ton of the booklets that hold the JSAs are lost throughout time and thus cost the company $5-$10 per booklet. I set out to fix this problem by making an app that could send anyone on site the JSA for the day as soon as they get on site. <br /> <br /> The solution that I came up with would utilize a built-in form that could be filled-in, then sent to everyone on the site within a particular radius set by the JSA writer. As soon as the form is submitted it cannot be changed and would be linked to blockchain to verify its authenticity. <br /><br /> Since the form would be sent to the blockchain, it could not be altered and thus protects the employees and the companies alike. An added bonus is that the companies would have an extremely organized database of all the JSAs for every job in the country.</p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-2.jpg",
-            "imageThree": "./images/project-details/dec-images-3.jpg"
+            "imageOne": "./images/project-details/Home-Geo.png",
+            "imageTwo": "./images/project-details/Geo-Fencing.png",
+            "imageThree": ""
         }
     },
     {
         "id": 2,
         "media": {
-            "thumb": "./images/project/project-2.jpg",
-            "image": "./images/project-details/project-details.jpg"
+            "thumb": "./images/project/Golf2.png",
+            "image": "./images/project-details/golf.jpg"
         },
-        "title": "AZA Social App",
-        "categories": ["mobile app", "Web/App"],
-        "challenge": "Poland ATA Finance <br /> Banking",
-        "date": "March 25, 2024",
-        "team": "Ardan - Developer <br /> Logan - U/UX Designer <br /> Lina - Tester",
-        "service": "Strategy, UI/UX Interaction, Mobile Design",
-        "subTitle": "Ideas & Concept",
-        "body": ["<p>Edden’s Villa is an international project located in Costa Rica. It has various different levels, whom are embedded into the unevenness of the terrain. This project seeks to integrate passive strategies for energy saving, such as the inclusion of as much natural light as possible as well as having green roofs with lots of vegetation in them. <br /> The geometry of this house combines design with nature into the structure of the house, which makes it unique amongst other neighboring places.</p>"],
-        "quote": "“This is the testimonial or review from clients, then will <br> is lorem ispum dolor sit amet, consectetur adipiscing elit  sed do <br> eiusmod tempor incididunt ut labore.” ",
-        "name": "Adam Levine",
-        "designation": "Director of Poland ATA Finance Banking",
+        "title": "Caddy Time App",
+        "categories": ["Mobile App", "Web/App"],
+        "challenge": "Caddy Time <br /> Golf",
+        "date": "September 24, 2021",
+        "team": "M. Brett Jafree - CEO <br /> David Rider - CSO <br /> Bryan Rosenfarb - CTO <br /> Ryan O'Donnell - CMO/CINO",
+        "service": "Strategy, UI/UX Interaction, Mobile Design, Marketing, Innovation, SEO",
+        "subTitle": "The Project",
+        "body": ["<p>Caddy Time is the Uber of Caddying. We are trying to bring caddying to the 99% of courses to elevate the game for the individuals that don't have the priveldge to be a Country Club Member. By producing an app that makes it easy for individuals to get a caddy to a course near them, we were able to bring a whole new exciting experience to the game that we know and love. <br /><br /> I was brought on the team originally as the Director of Marketing and SEO and a partner. However, I have since been moved to Chief Innovation and Marketing Officer as it fits my role within the company better. By providing simple and innovative solutions to the team, we have been able to modify the app for a better user experience, gain traction with the PGA Tour, and are only getting started. <br /><br />Starting 2022, we will be advertising and a partnered with PGA Canada, and working with infleuncers around the world to build our brand. As CMO/CINO, I came up with these unique ideas to partner with infleuncers on youtube and create extremely valuable partnerships with them to broadcast our brand.</p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-2.jpg",
-            "imageThree": "./images/project-details/dec-images-3.jpg"
+            "imageOne": "./images/project-details/CaddyTime1.PNG",
+            "imageTwo": "./images/project-details/CaddyTime2.PNG",
+            "imageThree": "./images/project-details/CaddyTime3.PNG"
+        }
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/slider/NFT.png",
+            "image": "./images/slider/Crypto.jpg"
+        },
+        "title": "Web 3.0: NFT Project",
+        "categories": ["Mobile App", "Web/App"],
+        "challenge": "NFT Project <br /> Crypto",
+        "date": "November 19, 2021",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "Tutorial, Project, Marketplace",
+        "subTitle": "The Project",
+        "body": ["<p>The Web 3.0 is coming and brings a ton of exciting opportunities in tech, finance, and much more. To learn more about the technology I built out an NFT portfolio project. This project was broadcast on a the Clever Programmer Youtube channel. It was an excellent exercise and learning experience that utilized Etherium and thirdweb. <br /><br /> I have a lot more planned for this project including building it into a fully functional marketplace where individuals can buy and sell their NFT assets.</p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/1.jpg",
+            "imageTwo": "./images/project-details/2.jpg",
+            "imageThree": "./images/slider/NFT.png"
+        }
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/slider/Limitless.png",
+            "image": "./images/slider/Limitless.png"
+        },
+        "title": "Limitless Web Developers, LLC",
+        "categories": ["Web/App", "Branding"],
+        "challenge": "Limitless <br /> Company",
+        "date": "August 1, 2021",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "Web Development, SEO, Branding, Content Marketing, Advertising",
+        "subTitle": "The Project",
+        "body": ["<p>Limitless Web Developers (Limitless for short), is a completely custom, full-service digital experience company that believes in innovation and helping others achieve greatness. We push the limits of design possibilities for our clients and create awe-inspiring digital experiences through cutting-edge UX design, custom coding, and thinking outside-the-box. <br /><br /> As the founder and owner of Limitless, I built the company from the ground up. Using React.js, I built the website and combined it with Sanity.Io so that I could easily and quickly publish content for the brand. Creating Limitless was one of the most difficult yet rewarding endeavors I have ever done. I am very proud of where I have taken it in such a short period of time. </p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/slider/Limitless.png",
+            "imageTwo": "./images/project-details/Limitless2.png",
+            "imageThree": "./images/project-details/Limitless3.png"
         }
     }
 ]

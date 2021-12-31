@@ -29,7 +29,7 @@ const ProjectDetails = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Andle - Project Details" />
+                <SEO title="Ryan O'Donnell - Project Details" />
                 <div className="main-wrapper">
                     <Header />
                     <PageTitleContainer title={title} subTitle={cate} />

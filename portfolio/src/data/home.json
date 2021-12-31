@@ -17,10 +17,10 @@
             },
             {
                 "id": 3,
-                "backgroundImage": "/images/slider/slider-1.jpg",
+                "backgroundImage": "/images/slider/Geo-Fencing.png",
                 "subTitle": "Latest project",
-                "title": "Bowmore Wine <br /> Rebranding",
-                "desc": "Combine with ideas of owner, Dustin Mahone. <br /> Arquito’s team completed a super villa with many powerful features, <br /> help owner really enjoy his life beside the beach"
+                "title": "Geo-Fencing App for JSA Certification and Sending",
+                "desc": "SAAS Idea by Ryan O'Donnell <br /> During my experiences as a Production Tester, we used Job Safety Assessments daily to maintain knowledge of potential hazards on the job site..."
             }
         ]
     },
@@ -100,16 +100,16 @@
             {
                 "id": 1,
                 "icon": "icofont-quote-right",
-                "name": "Ryan Betthalyn",
-                "designation": "Director at Chobham Manor",
-                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+                "name": "Jonathan Nyborg",
+                "designation": "Customer Success Specialist/Developer @ ScientiaMobile",
+                "excerpt": "Limitless's Website is extremely well optimized, scoring 93-97% on performance. Ryan did an excellent job of optimizing the site."
             },
             {
                 "id": 2,
                 "icon": "icofont-quote-right",
-                "name": "Bobs Hanely",
-                "designation": "Director at Spotify",
-                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+                "name": "Jonathan Waltz",
+                "designation": "President/Founder @ CSI",
+                "excerpt": "Ryan did an amazing job building out our new website and was an amazing help while he was with us."
             }
         ]
     },

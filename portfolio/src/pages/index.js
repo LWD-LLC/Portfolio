@@ -25,7 +25,7 @@ const HomePage = () => {
                     <HomeAbout />
                     <IconBoxContainer />
                     <FunfactContainer />
-                    <WorkContainer />
+                    {/* <WorkContainer /> */}
                     <AboutAward />
                     <TestimonialContainer />
                     <Footer />

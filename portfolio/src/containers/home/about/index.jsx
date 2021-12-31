@@ -22,7 +22,7 @@ const HomeAbout = () => {
                                     Founded in Pittsburgh, PA in 2020, Limitless Web Developers
                                     (Limitless) has grown to
                                     become one of Pittsburgh`s leading
-                                    Web Development companies.
+                                    Web Development companies (#10 on Clutch).
                                 </p>
                                 <p>
                                     We specialise in research-backed user experiences,

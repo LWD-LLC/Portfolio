@@ -5,7 +5,7 @@
             "thumb": "./images/work/work-1.jpg"
         },
         "title": "Cubic Villa",
-        "categories": ["Architecture", "Residential"]
+        "categories": ["Tutorial"]
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
             "thumb": "./images/work/work-2.jpg"
         },
         "title": "OBERO",
-        "categories": ["Architecture", "Residential"]
+        "categories": ["Project"]
     },
     {
         "id": 3,
