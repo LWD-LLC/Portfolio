@@ -29,8 +29,8 @@ const HomeAbout = () => {
                                     user interface designs, and custom coded apps and sites
                                      <br /> <br />{" "}
                                     Our portfolio includes some of the newest disruptors and innovators
-                                    in the nation including: Caddy Time,
-                                    golfing events, and many more. {" "}
+                                    in the nation including: Caddy Time
+                                    golf, and many more. {" "}
                                 </p>
                                 <p>
                                     We love disruption and innovation. Blowing our clients minds with what is possible
