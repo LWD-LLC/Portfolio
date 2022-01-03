@@ -4,9 +4,6 @@
         "title": "Awards Achieved",
         "yearOne": "2021",
         "yearTwo": "2020",
-        "yearThree": "2019",
-        "yearFour": "2018",
-        "yearFive": "2013",
         "awardItem": [
             {
                 "id": 1,
@@ -25,24 +22,6 @@
                 "className": "text-danger",
                 "cate": "TETRA Technologies",
                 "title": "Regional and District Outstanding Safety and Service Employee of the Month<span> TETRA Technologies</span>"
-            },
-            {
-                "id": 4,
-                "className": "text-success",
-                "cate": "TETRA Technologies",
-                "title": "Regional and District Outstanding Safety and Service Employee of the Month<span> TETRA Technologies</span>"
-            },
-            {
-                "id": 5,
-                "className": "text-white",
-                "cate": "Pennsylvania Army National Guard",
-                "title": "Army Commendation Medal<span> U.S. Army</span>"
-            },
-            {
-                "id": 6,
-                "className": "text-white",
-                "cate": "United States Army",
-                "title": "Soldier of the Cycle<span> U.S. Army</span>"
             }
         ]
     },
