@@ -30,9 +30,6 @@ const SkillContainer = () => {
                                         web apps, features, animations, and coding interactive layouts.
                                         <br />
                                         <br />
-                                        I also have full-stack developer experience with popular open-source CMSs like (WordPress, Sanity.IO, and others).
-                                        <br />
-                                        <br />
                                         Visit my <a href="https://www.linkedin.com/in/ryan-o-donnell-18aa4a21b/">LinkedIn</a> or just <a href="/contact">contact</a> me.
                                     </h4>
                                     <br />

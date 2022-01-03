@@ -98,13 +98,6 @@
     {
         "testimonial": [
             {
-                "id": 1,
-                "icon": "icofont-quote-right",
-                "name": "Jonathan Nyborg",
-                "designation": "Customer Success Specialist/Developer @ ScientiaMobile",
-                "excerpt": "Limitless's Website is extremely well optimized, scoring 93-97% on performance. Ryan did an excellent job of optimizing the site."
-            },
-            {
                 "id": 2,
                 "icon": "icofont-quote-right",
                 "name": "Jonathan Waltz",
