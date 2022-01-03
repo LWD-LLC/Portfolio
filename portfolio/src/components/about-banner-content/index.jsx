@@ -51,7 +51,7 @@ const AboutBannerContent = ({ data }) => {
                 <SectionTitle classOption="section-title-2" title="Service" />
                 <h4 className="service-text">
                     <span>
-                        Full-Stack Web/App React Development, SEO
+                        Full-Stack (Frontend focused) Web/App React Development, SEO
                     </span>
                 </h4>
             </div>

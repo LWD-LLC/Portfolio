@@ -33,8 +33,7 @@ const HomeAbout = () => {
                                     golf, and many more. {" "}
                                 </p>
                                 <p>
-                                    We love disruption and innovation. Blowing our clients minds with what is possible
-                                    is the core principle of the company.
+                                    We love disruption and innovation.
                                 </p>
                             </div>
                         </div>
