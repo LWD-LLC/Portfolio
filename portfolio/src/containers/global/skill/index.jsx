@@ -22,7 +22,7 @@ const SkillContainer = () => {
                                 data-aos-duration="1200"
                             >
                                 <div className="single-skills-bar">
-                                    <h4> Since beginning my tech journey 4 years ago (initially a geology major), I self-taught myself how to use JavaScript, React, React-Native, MERN stack, and more libraries/frameworks.
+                                    <h4> Since beginning my tech journey 4 years ago (initially a geology major), I taught myself how to use JavaScript, React, React-Native, MERN stack, and more libraries/frameworks.
                                         I&apos;ve done remote work for agencies, consulted for startups, and collaborated with talented people to create web products for both business and consumer use.
                                         <br />
                                         <br />
