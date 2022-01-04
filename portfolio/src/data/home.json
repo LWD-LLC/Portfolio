@@ -102,7 +102,14 @@
                 "icon": "icofont-quote-right",
                 "name": "Jonathan Waltz",
                 "designation": "President/Founder @ CSI",
-                "excerpt": "Ryan did an amazing job building out our new website and was an amazing help while he was with us."
+                "excerpt": "Ryan did an amazing job building out our new website and was a great help while he was with us. He learned our technology extremely fast and helped us progress as a company."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-quote-right",
+                "name": "Jason Barteldt",
+                "designation": "Product Line Supervisor @ TETRA Technologies Inc.",
+                "excerpt": "We were very proud to have Ryan as part of our team for two years. Ryan has great potential for being a leader and supervisor as he learned the aspects of the job very quickly and was not afraid to ask questions when needed. Ryan was also nominated by fellow employees and management for employee of the month because of his excellent work ethic and drive for safety."
             }
         ]
     },
