@@ -17923,6 +17923,8 @@ img {
 
 .details-images img {
   width: 100%;
+  max-height: 800px;
+  height: 100%;
 }
 
 .details-challenge .title {

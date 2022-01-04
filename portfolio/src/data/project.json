@@ -90,5 +90,28 @@
             "imageTwo": "./images/project-details/Limitless2.png",
             "imageThree": "./images/project-details/Limitless3.png"
         }
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "./images/slider/uber-logo-map-1.jpeg",
+            "image": "./images/slider/uber-logo-map-1.jpeg"
+        },
+        "title": "Uber Clone",
+        "categories": ["Mobile App", "Project"],
+        "challenge": "Limitless <br /> Company",
+        "date": "August 15, 2021",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "Mobile Development, React-Native",
+        "subTitle": "The Project",
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Uber Clone</button></a> <br /><br /> This Uber Clone was created with React-Native, Redux, Google Maps API, Tailwind CSS, and Google Autocomplete. The project was made to further understand React-Native, Tailwind CSS, and utilize APIs. <br /><br /> It utilizes a clean and functional UI that calculates the distance and estimated time of arrival. From the estimated distance and time I was able to derive an cost. Using these methods, I was able to further the project by adding dynamic pricing by the state the trip is located in or the country. </p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/slider/Uber2.PNG",
+            "imageTwo": "./images/slider/Uber3.PNG",
+            "imageThree": "./images/slider/Uber4.PNG"
+        }
     }
 ]
