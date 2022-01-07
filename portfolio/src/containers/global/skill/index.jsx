@@ -50,6 +50,72 @@ const SkillContainer = () => {
                     </div>
                 </div>
             </div>
+            <div className="container">
+                <div
+                    className="skills-wrapper section-padding wow fadeInUp"
+                    data-wow-delay="0.3s"
+                    data-wow-duration="1.5s"
+                >
+                    <div className="row">
+                        <div className="col-lg-3">
+                            <div className="section-title-2">
+                                <h2 className="title">Frontend</h2>
+                            </div>
+                        </div>
+                        <div className="col-lg-9">
+                            <div
+                                className="skill-bar-wrapper"
+                                data-aos="fade-up"
+                                data-aos-duration="1200"
+                            >
+                                <div className="single-skills-bar">
+                                    <span className="title"><h5>Frameworks:</h5><br /> React.js, Next.js, React-Native</span>
+                                    <br />
+                                    <br />
+                                    <span className="title"><h5>Languages:</h5><br /> JavaScript, TypeScript, HTML, CSS, SCSS, </span>
+                                    <br />
+                                    <br />
+                                    <span className="title"><h5>Other Skills:</h5><br />Redux, Axios, CryptoJS, React Hooks </span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="container">
+                <div
+                    className="skills-wrapper section-padding wow fadeInUp"
+                    data-wow-delay="0.3s"
+                    data-wow-duration="1.5s"
+                >
+                    <div className="row">
+                        <div className="col-lg-3">
+                            <div className="section-title-2">
+                                <h2 className="title">Backend</h2>
+                            </div>
+                        </div>
+                        <div className="col-lg-9">
+                            <div
+                                className="skill-bar-wrapper"
+                                data-aos="fade-up"
+                                data-aos-duration="1200"
+                            >
+                                <div className="single-skills-bar">
+                                    <span className="title"><h5>Tools:</h5><br /> MongoDB, Node, Express, Firebase </span>
+                                    <br />
+                                    <br />
+                                    <span className="title"><h5>Languages:</h5><br /> JavaScript </span>
+                                    <br />
+                                    <br />
+                                    <span className="title"><h5>Other Skills:</h5><br />Models, Context, Authorization  </span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     );
 };

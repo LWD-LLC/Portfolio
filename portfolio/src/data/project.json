@@ -1,6 +1,30 @@
 [
+
     {
         "id": 1,
+        "media": {
+            "thumb": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
+            "image": "./images/project-details/Netflix1.png"
+        },
+        "title": "Netflix Clone: MERN Stack App",
+        "categories": ["Web/App","Fullstack"],
+        "challenge": "Fullstack Portfolio Project",
+        "date": "January 07, 2022",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "MongoDB, Express, React, Node, JWT, CryptoJS, Context API, Material Icons, Axios, Firebase, SCSS, React Hooks",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Netflix App</button></a> <br /><br />This Netflix Clone was built using the MERN stack and is a complete build with an admin panel, admin sign-in, sign-in, verification, and much more. The fullstack build started with setting up the frontend (Top image) build in react by hardcoding movies, components, etc. into the frontend to get the design right. Once the design was right, I moved on to the Login and Register Page. Feel free to register and log in so that you can see the full site (Image 1).<br /><br />From the frontend, I created the server-side logic and API, which includes routes, models, and user auth. The user registration and auth was the easy part. This challenge got more difficult once I started to add the admin rights. <br /><br />Admin is ran by Crypto-js AES 256 bit encryption. This allows only the admins who have admin privledges to do CRUD operations on the database and storage (Image 2).<br /><br />Once the admin pages was set, I added some movies to the Database from the admin panel and dynamically imported them via the api into the frontend (Image 3).</p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/Netflix-Signin.png",
+            "imageTwo": "./images/project-details/Admin1.png",
+            "imageThree": "./images/project-details/MongoDB.png"
+        }
+    },
+    {
+        "id": 2,
         "media": {
             "thumb": "./images/project/Geo-Fencing.png",
             "image": "./images/project-details/Geo-Fencing.png"
@@ -23,7 +47,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "media": {
             "thumb": "./images/project/Golf2.png",
             "image": "./images/project-details/golf.jpg"
@@ -46,7 +70,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "media": {
             "thumb": "./images/slider/NFT.png",
             "image": "./images/slider/Crypto.jpg"
@@ -69,7 +93,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "media": {
             "thumb": "./images/slider/Limitless.png",
             "image": "./images/slider/Limitless.png"
@@ -92,7 +116,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "media": {
             "thumb": "./images/slider/uber-logo-map-1.jpeg",
             "image": "./images/slider/uber-logo-map-1.jpeg"

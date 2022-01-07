@@ -48,10 +48,10 @@ const AboutBannerContent = ({ data }) => {
                 data-aos="fade-up"
                 data-aos-duration="900"
             >
-                <SectionTitle classOption="section-title-2" title="Service" />
+                <SectionTitle classOption="section-title-2" title="Services" />
                 <h4 className="service-text">
                     <span>
-                        Full-Stack (Frontend focused) Web/App React Development, SEO
+                        Full-Stack (Frontend focused) Web/App MERN-stack Development, SEO
                     </span>
                 </h4>
             </div>

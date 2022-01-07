@@ -43,20 +43,14 @@ const IntroContainer = () => {
             <ul className="social">
                 <li>
                     <SocialIcon
-                        path="https://twitter.com/"
+                        path="https://twitter.com/LimitlessDev412"
                         icon="fab fa-twitter"
                     />
                 </li>
                 <li>
                     <SocialIcon
-                        path="https://www.facebook.com/"
+                        path="https://www.facebook.com/ryan.odonnell.94043"
                         icon="fab fa-facebook-f"
-                    />
-                </li>
-                <li>
-                    <SocialIcon
-                        path="https://www.behance.net/"
-                        icon="fab fa-behance"
                     />
                 </li>
             </ul>
