@@ -1,12 +1,50 @@
 [
-
     {
         "id": 1,
+        "media": {
+            "thumb": "./images/slider/scott-webb-qauaqihMwpc-unsplash.jpg",
+            "image": "./images/slider/scott-webb-qauaqihMwpc-unsplash.jpg"
+        },
+        "title": "SoftSlab",
+        "categories": ["Mobile App", "Web/App"],
+        "challenge": "Limitless <br /> Company",
+        "date": "January 22, 2024",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "React-Native, React, Redux",
+        "subTitle": "SoftSlab: A Comprehensive Project Management and Resource Tracking Solution",
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Request for Access</button></p>",
+            "<p><strong>SoftSlab: A Comprehensive Project Management and Resource Tracking Solution</strong></p>",
+            "<p><strong>Overview:</strong> SoftSlab is an innovative, full-stack project management and resource tracking application designed to streamline operations in the stone industry. This robust platform offers a suite of tools for managing projects, customers, employees, inventory, and more, tailored specifically to the needs of businesses dealing with stone products and services.</p>",
+            "<p><strong>Technical Highlights:</strong><br/>",
+            "<p><strong>Full-Stack Development:</strong> Developed using a MERN stack (MongoDB, Express.js, React, Node.js), showcasing proficiency in both front-end and back-end technologies, including RESTful APIs, CRUD operations, and responsive UI/UX design.<br/>",
+            "<p><strong>Database Design and Management:</strong> Utilized MongoDB for efficient database schemas for users, employees, customers, projects, and inventory items. Skills in database associations, indexing for performance, and complex queries.<br/>",
+            "<p><strong>Authentication and Authorization:</strong> Implemented JWT-based authentication and authorization, managing roles and permissions for various user levels.<br/>",
+            "<p><strong>Real-time Data Handling:</strong> Incorporated real-time data processing for inventory management and project tracking.<br/>",
+            "<p><strong>Custom Middleware Development:</strong> Developed custom middleware for Express.js for user authentication, role-based access control, and request validation.<br/>",
+            "<p><strong>Unit Testing and Quality Assurance:</strong> Employed Jest for unit testing, covering models, routes, and business logic.<br/>",
+            "<p><strong>Front-end Development with React:</strong> Crafted a dynamic front-end using React and Redux, focusing on user-friendly interfaces and real-time data updates.<br/>",
+            "<p><strong>API Integration:</strong> Integrated third-party APIs for functionalities like scheduling and communication.<br/>",
+            "<p><strong>Security Best Practices:</strong> Adhered to best practices in password hashing, input validation, and error handling.<br/>",
+            "<p><strong>Scalable Architecture:</strong> Designed for scalability, allowing easy addition of new features and modules.<br/>",
+            "<p><strong>DevOps and Deployment:</strong> Managed application deployment with CI/CD practices and cloud hosting services.<br/>",
+            "<p><strong>Documentation and Code Management:</strong> Maintained clear documentation and used Git for code management and team collaboration.<br/>",
+            "</p>",
+            "<p><strong>Project Impact:</strong> SoftSlab demonstrates the ability to develop and manage a full-scale application tailored to industry-specific needs, highlighting technical expertise and strategic problem-solving abilities.</p>"
+        
+        ],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+        }
+    },
+    {
+        "id": 2,
         "media": {
             "thumb": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
             "image": "./images/project-details/Netflix1.png"
         },
-        "title": "Netflix Clone: MERN Stack App",
+        "title": "Netflix Clone",
         "categories": ["Web/App","Fullstack"],
         "challenge": "Fullstack Portfolio Project",
         "date": "January 07, 2022",
@@ -24,7 +62,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "media": {
             "thumb": "./images/project/Geo-Fencing.png",
             "image": "./images/project-details/Geo-Fencing.png"
@@ -47,7 +85,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "media": {
             "thumb": "./images/project/Golf2.png",
             "image": "./images/project-details/golf.jpg"
@@ -70,7 +108,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "media": {
             "thumb": "./images/slider/NFT.png",
             "image": "./images/slider/Crypto.jpg"
@@ -93,7 +131,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "media": {
             "thumb": "./images/slider/Limitless.png",
             "image": "./images/slider/Limitless.png"
@@ -116,7 +154,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "media": {
             "thumb": "./images/slider/uber-logo-map-1.jpeg",
             "image": "./images/slider/uber-logo-map-1.jpeg"
@@ -138,4 +176,5 @@
             "imageThree": "./images/slider/Uber4.PNG"
         }
     }
+    
 ]

@@ -17,24 +17,17 @@ const HomeAbout = () => {
                     >
                         <div className="col-lg-6">
                             <div className="about-content">
-                                <h3 className="title">Limitless</h3>
+                                <h3 className="title">About My Company: Limitless</h3>
                                 <p className="about-text">
                                     Founded in Pittsburgh, PA in 2020, Limitless Web Developers
-                                    (Limitless) has grown to
-                                    become one of Pittsburgh`s leading
-                                    Web Development companies (#10 on Clutch).
+                                    (Limitless) was one of Pittsburgh`s leading
+                                    Web Development companies (#10 on Clutch) until unfortunate circumstances
+                                    caused me to step away from the company
+                                    <br /><br />
+                                    <p>Now I am looking to join a team of disruptors and help build the future. I learned a ton while building limitless.
+                                    </p>
                                 </p>
-                                <p>
-                                    We specialise in research-backed user experiences,
-                                    user interface designs, and custom coded apps and sites
-                                     <br /> <br />{" "}
-                                    Our portfolio includes some of the newest disruptors and innovators
-                                    in the nation including: Caddy Time
-                                    golf, and many more. {" "}
-                                </p>
-                                <p>
-                                    We love disruption and innovation.
-                                </p>
+                                
                             </div>
                         </div>
                     </div>

@@ -4,27 +4,33 @@
 
             {
                 "id": 1,
+                "backgroundImage": "/images/slider/scott-webb-qauaqihMwpc-unsplash.jpg",
+                "subTitle": "Latest project",
+                "title": "SoftSlab <br /> The top logistics and inventory management software in granite"
+            },
+            {
+                "id": 2,
                 "backgroundImage": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
                 "subTitle": "Latest project",
                 "title": "Netflix Mern Stack Clone <br />",
                 "desc": "A fullstack Netflix clone like no other"
             },
             {
-                "id": 2,
+                "id": 3,
                 "backgroundImage": "/images/slider/Crypto.jpg",
                 "subTitle": "Latest project",
                 "title": "Web 3.0 <br /> NFT Project and Marketplace",
                 "desc": "Combined with MetaMask, thirdweb, and etherium, I learned about NFT's and NFT marketplaces"
             },
             {
-                "id": 3,
+                "id": 4,
                 "backgroundImage": "/images/slider/Logo.png",
                 "subTitle": "Latest project",
                 "title": "Limitless <br /> Rebranding",
                 "desc": "Frontend web development project completely custom coded from scratch."
             },
             {
-                "id": 4,
+                "id": 5,
                 "backgroundImage": "/images/slider/Geo-Fencing.png",
                 "subTitle": "Latest project",
                 "title": "Geo-Fencing App for JSA Certification and Sending",
@@ -88,17 +94,17 @@
         "funfact": [
             {
                 "id": 1,
-                "number": 4380,
+                "number": 15542,
                 "title": "Cups <br /> of coffee drank"
             },
             {
                 "id": 2,
-                "number": 15000,
-                "title": "Lines of <br /> code"
+                "number": 150000,
+                "title": "+ Lines of <br /> code"
             },
             {
                 "id": 3,
-                "number": 3,
+                "number": 15,
                 "title": "projects completely <br /> custom coded"
             }
         ]
