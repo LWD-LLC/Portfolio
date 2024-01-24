@@ -10,31 +10,31 @@
             },
             {
                 "id": 2,
-                "backgroundImage": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
-                "subTitle": "Latest project",
-                "title": "Netflix Mern Stack Clone <br />",
-                "desc": "A fullstack Netflix clone like no other"
-            },
-            {
-                "id": 3,
-                "backgroundImage": "/images/slider/Crypto.jpg",
-                "subTitle": "Latest project",
-                "title": "Web 3.0 <br /> NFT Project and Marketplace",
-                "desc": "Combined with MetaMask, thirdweb, and etherium, I learned about NFT's and NFT marketplaces"
-            },
-            {
-                "id": 4,
                 "backgroundImage": "/images/slider/Logo.png",
                 "subTitle": "Latest project",
                 "title": "Limitless <br /> Rebranding",
                 "desc": "Frontend web development project completely custom coded from scratch."
             },
             {
-                "id": 5,
+                "id": 3,
                 "backgroundImage": "/images/slider/Geo-Fencing.png",
                 "subTitle": "Latest project",
                 "title": "Geo-Fencing App for JSA Certification and Sending",
                 "desc": "SAAS Idea by Ryan O'Donnell <br /> During my experiences as a Production Tester, we used Job Safety Assessments daily to maintain knowledge of potential hazards on the job site..."
+            },
+            {
+                "id": 4,
+                "backgroundImage": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
+                "subTitle": "Latest project",
+                "title": "Netflix Mern Stack Clone <br />",
+                "desc": "A fullstack Netflix clone like no other"
+            },
+            {
+                "id": 5,
+                "backgroundImage": "/images/slider/Crypto.jpg",
+                "subTitle": "Latest project",
+                "title": "Web 3.0 <br /> NFT Project and Marketplace",
+                "desc": "Combined with MetaMask, thirdweb, and etherium, I learned about NFT's and NFT marketplaces"
             }
         ]
     },
@@ -114,47 +114,23 @@
             {
                 "id": 2,
                 "icon": "icofont-quote-right",
+                "name": "Brett Jaffee",
+                "designation": "CEO/Co-founder @ Caddy Time",
+                "excerpt": "Ryan is an exceptional leader, always demonstrating excellent communication and collaboration skills. He has a unique ability to bring teams together from different departments, creating a positive and productive work environment. Ryan always encourages open and honest discussions, resulting in the successful execution of numerous projects."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-quote-right",
                 "name": "Jonathan Waltz",
                 "designation": "President/Founder @ CSI",
                 "excerpt": "Ryan did an amazing job building out our new website and was a great help while he was with us. He learned our technology extremely fast and helped us progress as a company."
             },
             {
-                "id": 2,
+                "id": 3,
                 "icon": "icofont-quote-right",
                 "name": "Jason Barteldt",
                 "designation": "Product Line Supervisor @ TETRA Technologies Inc.",
                 "excerpt": "We were very proud to have Ryan as part of our team for two years. Ryan has great potential for being a leader and supervisor as he learned the aspects of the job very quickly and was not afraid to ask questions when needed. Ryan was also nominated by fellow employees and management for employee of the month because of his excellent work ethic and drive for safety."
-            }
-        ]
-    },
-    {
-        "pricing": [
-            {
-                "id": 1,
-                "badgeType": "false",
-                "badge": "popular",
-                "icon": "icon-paper-plane",
-                "title": "Personal",
-                "price": "<sup>$</sup>9.99<span>/ month</span>",
-                "pricingList": ["Custome Domains", "Sleep after 30 mins of <br /> activity"]
-            },
-            {
-                "id": 2,
-                "badgeType": "true",
-                "badge": "popular",
-                "icon": "icon-plane",
-                "title": "small team",
-                "price": "<sup>$</sup>49.99<span>/ month</span>",
-                "pricingList": ["never sleeps", "multiple workers for more <br /> powerful apps"]
-            },
-            {
-                "id": 3,
-                "badgeType": "false",
-                "badge": "popular",
-                "icon": "icon-rocket",
-                "title": "enterprise",
-                "price": "<sup>$</sup>99.99<span>/ month</span>",
-                "pricingList": ["dedicated", "simple horizontal <br /> scalability"]
             }
         ]
     }

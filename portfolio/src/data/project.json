@@ -41,63 +41,17 @@
     {
         "id": 2,
         "media": {
-            "thumb": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
-            "image": "./images/project-details/Netflix1.png"
+            "thumb": "./images/logo-whiteon.png",
+            "image": "./images/logo-whiteon.png"
         },
-        "title": "Netflix Clone",
-        "categories": ["Web/App","Fullstack"],
-        "challenge": "Fullstack Portfolio Project",
-        "date": "January 07, 2022",
-        "team": "Ryan O'Donnell - Developer",
-        "service": "MongoDB, Express, React, Node, JWT, CryptoJS, Context API, Material Icons, Axios, Firebase, SCSS, React Hooks",
-        "subTitle": "Ideas & Concept",
-        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Netflix App</button></a> <br /><br />This Netflix Clone was built using the MERN stack and is a complete build with an admin panel, admin sign-in, sign-in, verification, and much more. The fullstack build started with setting up the frontend (Top image) build in react by hardcoding movies, components, etc. into the frontend to get the design right. Once the design was right, I moved on to the Login and Register Page. Feel free to register and log in so that you can see the full site (Image 1).<br /><br />From the frontend, I created the server-side logic and API, which includes routes, models, and user auth. The user registration and auth was the easy part. This challenge got more difficult once I started to add the admin rights. <br /><br />Admin is ran by Crypto-js AES 256 bit encryption. This allows only the admins who have admin privledges to do CRUD operations on the database and storage (Image 2).<br /><br />Once the admin pages was set, I added some movies to the Database from the admin panel and dynamically imported them via the api into the frontend (Image 3).</p>"],
-        "quote": "",
-        "name": "",
-        "designation": "",
-        "gallery": {
-            "imageOne": "./images/project-details/Netflix-Signin.png",
-            "imageTwo": "./images/project-details/Admin1.png",
-            "imageThree": "./images/project-details/MongoDB.png"
-        }
-    },
-    {
-        "id": 3,
-        "media": {
-            "thumb": "./images/project/Geo-Fencing.png",
-            "image": "./images/project-details/Geo-Fencing.png"
-        },
-        "title": "Geo-Fensing App",
-        "categories": ["Web/App"],
-        "challenge": "Limitless SAAS App Idea",
-        "date": "December 01, 2021",
-        "team": "Ryan O'Donnell - Developer",
-        "service": "Strategy, UI/UX Design, Development",
-        "subTitle": "Ideas & Concept",
-        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Geo-fensing app</button></a> <br /><br />This app was built by followig a tutorial <a href='https://pusher.com/tutorials/geofencing-nextjs/'>by Christian Nwamba</a> initially. The idea came from thinking about my experiences on the oil field using JSAs daily to ensure awarness of potential hazards. I noticed that a ton of the booklets that hold the JSAs are lost throughout time and thus cost the company $5-$10 per booklet. I set out to fix this problem by making an app that could send anyone on site the JSA for the day as soon as they get on site. <br /> <br /> The solution that I came up with would utilize a built-in form that could be filled-in, then sent to everyone on the site within a particular radius set by the JSA writer. As soon as the form is submitted it cannot be changed and would be linked to blockchain to verify its authenticity. <br /><br /> Since the form would be sent to the blockchain, it could not be altered and thus protects the employees and the companies alike. An added bonus is that the companies would have an extremely organized database of all the JSAs for every job in the country.<br /><br /> The project was created with Next.js, Pusher, GoogleMaps API, and React. In the future it will feature a backend for CRUD and database so that the forms can be saved and read by certified personnel. </p>"],
-        "quote": "",
-        "name": "",
-        "designation": "",
-        "gallery": {
-            "imageOne": "./images/project-details/Home-Geo.png",
-            "imageTwo": "./images/project-details/Geo-Fencing.png",
-            "imageThree": ""
-        }
-    },
-    {
-        "id": 4,
-        "media": {
-            "thumb": "./images/project/Golf2.png",
-            "image": "./images/project-details/golf.jpg"
-        },
-        "title": "Caddy Time App",
-        "categories": ["Mobile App", "Web/App"],
-        "challenge": "Caddy Time <br /> Golf",
-        "date": "September 24, 2021",
-        "team": "M. Brett Jafree - CEO <br /> David Rider - CSO <br /> Bryan Rosenfarb - CTO <br /> Ryan O'Donnell - CMO/CINO",
-        "service": "Strategy, UI/UX Interaction, Mobile Design, Marketing, Innovation, SEO",
+        "title": "Personal Portfolio",
+        "categories": ["Project", "Web/App"],
+        "challenge": "Personal Portfolio",
+        "date": "January 22, 2024",
+        "team": "Ryan O'Donnell - Fullstack",
+        "service": "Strategy, UI/UX Interaction, Mobile Design, Marketing, SEO",
         "subTitle": "The Project",
-        "body": ["<p><a href='https://www.caddytime.com'><button>Caddy Time</button></a> <br /><br />Caddy Time is the Uber of Caddying. We are trying to bring caddying to the 99% of courses to elevate the game for the individuals that don't have the priveldge to be a Country Club Member. By producing an app that makes it easy for individuals to get a caddy to a course near them, we were able to bring a whole new exciting experience to the game that we know and love. <br /><br /> I was brought on the team originally as the Director of Marketing and SEO and a partner. However, I have since been moved to Chief Innovation and Marketing Officer as it fits my role within the company better. By providing simple and innovative solutions to the team, we have been able to modify the app for a better user experience, gain traction, and are only getting started. <br /><br />Starting 2022, we will be advertising a large partner with, and working with infleuncers around the world to build our brand. As CMO/CINO, I came up with unique ideas to partner with infleuncers on youtube and create extremely valuable partnerships with them to broadcast our brand.</p>"],
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>See Repo</button></a></p>"],
         "quote": "",
         "name": "",
         "designation": "",
@@ -108,30 +62,30 @@
         }
     },
     {
-        "id": 5,
+        "id": 3,
         "media": {
-            "thumb": "./images/slider/NFT.png",
-            "image": "./images/slider/Crypto.jpg"
+            "thumb": "./images/project/Golf2.png",
+            "image": "./images/project-details/golf.jpg"
         },
-        "title": "Web 3.0: NFT Project",
+        "title": "Caddy Time App",
         "categories": ["Mobile App", "Web/App"],
-        "challenge": "NFT Project <br /> Crypto",
-        "date": "November 19, 2021",
-        "team": "Ryan O'Donnell - Developer",
-        "service": "Tutorial, Project, Marketplace",
+        "challenge": "Caddy Time <br /> Golf",
+        "date": "September 24, 2021",
+        "team": "M. Brett Jafree - CEO <br /> David Rider - CSO <br /> Ryan O'Donnell - CMO/CTO",
+        "service": "Strategy, UI/UX Interaction, Mobile Design/Development, Marketing, SEO",
         "subTitle": "The Project",
-        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Web 3.0</button></a> <br /><br />The Web 3.0 is coming and brings a ton of exciting opportunities in tech, finance, and much more. To learn more about the technology I built out an NFT portfolio project. This project was broadcast on a the Clever Programmer Youtube channel. It was an excellent exercise and learning experience that utilized Etherium and thirdweb. <br /><br /> I have a lot more planned for this project including building it into a fully functional marketplace where individuals can buy and sell their NFT assets.</p>"],
+        "body": ["<p><a href='https://www.caddytime.com'><button>Caddy Time</button></a> <br /><br />Caddy Time is the Uber of Caddying. We are trying to bring caddying to the 99% of courses to elevate the game for the individuals that don't have the priveldge to be a Country Club Member. By producing an app that makes it easy for individuals to get a caddy to a course near them, we were able to bring a whole new exciting experience to the game that we know and love. <br /><br /> I was brought on the team originally as the Director of Marketing, SEO, and a partner. However, I have since been moved to Chief Marketing Officer and Interem Chief Technical Officer. By providing simple and innovative solutions to the team, we have been able to modify the app for a better user experience, gain traction, and are only getting started. <br /><br />Starting 2022, we will be advertising with a large partner, and working with infleuncers around the world to build our brand. As CMO, I came up with unique ideas to partner with infleuncers on youtube and create extremely valuable partnerships with them to broadcast our brand.</p>"],
         "quote": "",
         "name": "",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/1.jpg",
-            "imageTwo": "./images/project-details/2.jpg",
-            "imageThree": "./images/slider/NFT.png"
+            "imageOne": "./images/project-details/CaddyTime1.PNG",
+            "imageTwo": "./images/project-details/CaddyTime2.PNG",
+            "imageThree": "./images/project-details/CaddyTime3.PNG"
         }
     },
     {
-        "id": 6,
+        "id": 4,
         "media": {
             "thumb": "./images/slider/Limitless.png",
             "image": "./images/slider/Limitless.png"
@@ -154,7 +108,76 @@
         }
     },
     {
+        "id": 5,
+        "media": {
+            "thumb": "./images/project/Geo-Fencing.png",
+            "image": "./images/project-details/Geo-Fencing.png"
+        },
+        "title": "Geo-Fensing App",
+        "categories": ["Web/App"],
+        "challenge": "Limitless SAAS App Idea",
+        "date": "December 01, 2021",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "Strategy, UI/UX Design, Development",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Geo-fensing app</button></a> <br /><br />This app was built by followig a tutorial <a href='https://pusher.com/tutorials/geofencing-nextjs/'>by Christian Nwamba</a> initially. The idea came from thinking about my experiences on the oil field using JSAs daily to ensure awarness of potential hazards. I noticed that a ton of the booklets that hold the JSAs are lost throughout time and thus cost the company $5-$10 per booklet. I set out to fix this problem by making an app that could send anyone on site the JSA for the day as soon as they get on site. <br /> <br /> The solution that I came up with would utilize a built-in form that could be filled-in, then sent to everyone on the site within a particular radius set by the JSA writer. As soon as the form is submitted it cannot be changed and would be linked to blockchain to verify its authenticity. <br /><br /> Since the form would be sent to the blockchain, it could not be altered and thus protects the employees and the companies alike. An added bonus is that the companies would have an extremely organized database of all the JSAs for every job in the country.<br /><br /> The project was created with Next.js, Pusher, GoogleMaps API, and React. In the future it will feature a backend for CRUD and database so that the forms can be saved and read by certified personnel. </p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/Home-Geo.png",
+            "imageTwo": "./images/project-details/Geo-Fencing.png",
+            "imageThree": ""
+        }
+    },
+    {
+        "id": 6,
+        "media": {
+            "thumb": "https://img5.goodfon.com/wallpaper/nbig/1/61/fon-netflix-logo-raduga-tsvet-fon-background-skachat-oboi-sk.jpg",
+            "image": "./images/project-details/Netflix1.png"
+        },
+        "title": "Netflix Clone",
+        "categories": ["Web/App","Fullstack"],
+        "challenge": "Fullstack Portfolio Project",
+        "date": "January 07, 2022",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "MongoDB, Express, React, Node, JWT, CryptoJS, Context API, Material Icons, Axios, Firebase, SCSS, React Hooks",
+        "subTitle": "Ideas & Concept",
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Netflix App</button></a> <br /><br />This Netflix Clone was built using the MERN stack and is a complete build with an admin panel, admin sign-in, sign-in, verification, and much more. The fullstack build started with setting up the frontend (Top image) build in react by hardcoding movies, components, etc. into the frontend to get the design right. Once the design was right, I moved on to the Login and Register Page. Feel free to register and log in so that you can see the full site (Image 1).<br /><br />From the frontend, I created the server-side logic and API, which includes routes, models, and user auth. The user registration and auth was the easy part. This challenge got more difficult once I started to add the admin rights. <br /><br />Admin is ran by Crypto-js AES 256 bit encryption. This allows only the admins who have admin privledges to do CRUD operations on the database and storage (Image 2).<br /><br />Once the admin pages was set, I added some movies to the Database from the admin panel and dynamically imported them via the api into the frontend (Image 3).</p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/Netflix-Signin.png",
+            "imageTwo": "./images/project-details/Admin1.png",
+            "imageThree": "./images/project-details/MongoDB.png"
+        }
+    },
+    {
         "id": 7,
+        "media": {
+            "thumb": "./images/slider/NFT.png",
+            "image": "./images/slider/Crypto.jpg"
+        },
+        "title": "Web 3.0: NFT Project",
+        "categories": ["Mobile App", "Web/App"],
+        "challenge": "NFT Project <br /> Crypto",
+        "date": "November 19, 2021",
+        "team": "Ryan O'Donnell - Developer",
+        "service": "Tutorial, Project, Marketplace",
+        "subTitle": "The Project",
+        "body": ["<p><a href='https://github.com/LWD-LLC'><button>Web 3.0</button></a> <br /><br />The Web 3.0 is coming and brings a ton of exciting opportunities in tech, finance, and much more. To learn more about the technology I built out an NFT portfolio project. This project was broadcast on a the Clever Programmer Youtube channel. It was an excellent exercise and learning experience that utilized Etherium and thirdweb. <br /><br /> I have a lot more planned for this project including building it into a fully functional marketplace where individuals can buy and sell their NFT assets.</p>"],
+        "quote": "",
+        "name": "",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/1.jpg",
+            "imageTwo": "./images/project-details/2.jpg",
+            "imageThree": "./images/slider/NFT.png"
+        }
+    },
+    {
+        "id": 8,
         "media": {
             "thumb": "./images/slider/uber-logo-map-1.jpeg",
             "image": "./images/slider/uber-logo-map-1.jpeg"
