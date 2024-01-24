@@ -11,7 +11,32 @@ const AboutAward = () => {
                     classOption="section-title-2"
                     title="award achieved"
                 />
-
+                <div className="achieved-year">
+                    <div
+                        className="row"
+                        data-aos="fade-up"
+                        data-aos-duration="1200"
+                    >
+                        <div className="col-lg-3">
+                            <div className="year-text">
+                                <p>{AboutData[0].yearZero}</p>
+                            </div>
+                        </div>
+                        <div className="col-lg-9">
+                            {AboutData[0].awardItem &&
+                                AboutData[0].awardItem
+                                    .slice(0, 1)
+                                    .map((single, key) => {
+                                        return (
+                                            <AwardItem
+                                                key={key}
+                                                data={single}
+                                            />
+                                        );
+                                    })}
+                        </div>
+                    </div>
+                </div>
                 <div className="achieved-year">
                     <div
                         className="row"
@@ -26,7 +51,7 @@ const AboutAward = () => {
                         <div className="col-lg-9">
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(0, 2)
+                                    .slice(1, 2)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem
@@ -57,7 +82,7 @@ const AboutAward = () => {
                         >
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(2, 3)
+                                    .slice(1, 3)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem
@@ -118,7 +143,7 @@ const AboutAward = () => {
                         >
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(4, 5)
+                                    .slice(4, 6)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem
@@ -148,7 +173,7 @@ const AboutAward = () => {
                         >
                             {AboutData[0].awardItem &&
                                 AboutData[0].awardItem
-                                    .slice(5, 6)
+                                    .slice(6, 8)
                                     .map((single, key) => {
                                         return (
                                             <AwardItem

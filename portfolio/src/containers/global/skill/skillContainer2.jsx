@@ -31,9 +31,7 @@ const SkillContainer2 = () => {
                                         around the world twice, speak german (listen better than speak), and worked in the oilfield for 2 years.
                                         <br />
                                         <br />
-                                        I&apos;m a huge advocate for empowering others with ADHD, and teaching them to use their skills to create unique
-                                        solutions to better the world. I will be starting a YouTube about ADHD and technology soon. I believe that it is 
-                                        a great solution for those that can&apos;t sit still and do repetative tasks. 
+                                        I&apos;ve tried my hardest to live the life that I am proud of, and leave a mark whereever I am. 
                                         <br />
                                         <br />
                                         To me, coding is my vise and savior, it has turned my life around for the better. Days go by as fast as can be because when I&apos;m

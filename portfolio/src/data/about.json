@@ -2,26 +2,66 @@
     {
         "id": "Awards",
         "title": "Awards Achieved",
-        "yearOne": "2021",
-        "yearTwo": "2020",
+        "yearZero": "2024",
+        "yearOne": "2023",
+        "yearTwo": "2022",
+        "yearThree": "2021",
+        "yearFour": "2018-2020",
+        "yearFive": "2013-2018",
         "awardItem": [
             {
+                "id": 0,
+                "className": "text-danger",
+                "cate": "Free Agent",
+                "title": "My Next Success:<span> Your Company</span>"
+            },
+            {
                 "id": 1,
+                "className": "text-primary",
+                "cate": "Custom Stone Interiors",
+                "title": "Partner and Chief Technical Officer <span>Custom Stone Interiors</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-primary",
+                "cate": "Caddy Time",
+                "title": "Interem Chief Technology Officer <span>Caddy Time</span>"
+            },
+            {
+                "id": 3,
                 "className": "text-primary",
                 "cate": "Caddy Time",
                 "title": "Partner and Chief Marketing Officer <span>Caddy Time</span>"
             },
             {
-                "id": 2,
+                "id": 4,
                 "className": "text-primary",
                 "cate": "CSI",
                 "title": "Employee of the Month <span>Custom Stone Interiors, LLC</span>"
             },
             {
-                "id": 3,
+                "id": 5,
+                "className": "text-danger",
+                "cate": "Limitless Web Developers",
+                "title": "Started my own company: <span> Limitless</span>"
+            },
+            {
+                "id": 6,
                 "className": "text-danger",
                 "cate": "TETRA Technologies",
                 "title": "Regional and District Outstanding Safety and Service Employee of the Month<span> TETRA Technologies</span>"
+            },
+            {
+                "id": 7,
+                "className": "text-primary",
+                "cate": "Indiana University of Pennsylvania",
+                "title": "Graduated with BS Geology: Magnum Cum Laude <span>Caddy Time</span>"
+            },
+            {
+                "id": 8,
+                "className": "text-primary",
+                "cate": "United States Army National Guard",
+                "title": "Soldier of the Cycle <span>Army National Guard</span>"
             }
         ]
     },

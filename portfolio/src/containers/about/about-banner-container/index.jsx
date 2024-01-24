@@ -12,7 +12,7 @@ const AboutBannerContainer = () => {
                 </div>
 
                 <div className="about-banner-image">
-                    <img src="/images/about-images-2.jpg" alt="Ryan O'Donnell" />
+                    <img src="/images/slider/Ryan-headshot.jpeg" alt="Ryan O'Donnell" />
                 </div>
             </div>
 
@@ -27,12 +27,6 @@ const AboutBannerContainer = () => {
                     <SocialIcon
                         path="https://www.facebook.com/ryan.odonnell.94043"
                         icon="fab fa-facebook-f"
-                    />
-                </li>
-                <li>
-                    <SocialIcon
-                        path="https://www.instagram.com/limitless_devs412/"
-                        icon="fab fa-instagram"
                     />
                 </li>
             </ul>
